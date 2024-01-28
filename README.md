@@ -1,3 +1,8 @@
+changes from https://github.com/NVIDIA/MinkowskiEngine/issues/543#issuecomment-1773458776 <br>
+and added one header in src/3rdparty/concurrent_unordered_map.cuh
+
+
+
 [pypi-image]: https://badge.fury.io/py/MinkowskiEngine.svg
 [pypi-url]: https://pypi.org/project/MinkowskiEngine/
 [pypi-download]: https://img.shields.io/pypi/dm/MinkowskiEngine
